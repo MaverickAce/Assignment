@@ -9,7 +9,7 @@
 
 4. git config user.name/user.email → This command is set user.name/user.email
 
-5. git commit -m ‘ your message’ → This command commit the changes to the repository
+5. git commit -m 'your message' → This command commit the changes to the repository
 
 6. git log → You can pull up a repository’s commit history
 

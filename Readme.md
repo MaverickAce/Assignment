@@ -1,4 +1,4 @@
-## This is the first assignment on Git Commands 
+## This is the most useful commands on Git  
 
 '''
 1. git --version → Shows the version of the repository
